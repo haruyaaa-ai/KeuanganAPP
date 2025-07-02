@@ -58,3 +58,6 @@ a. User
 - Membersihkan kode (refactor) dan menambahkan komentar
 - Menyusun dokumentasi proyek di file README.md di GitHub
 - Menyiapkan laporan akhir dan file presentasi
+
+📄 [Lihat Laporan Proyek (PDF)](https://github.com/haruyaaa-ai/KeuanganAPP/blob/main/Kelompok%209_PBO2.pdf
+)
