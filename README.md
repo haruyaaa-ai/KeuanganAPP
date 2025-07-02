@@ -33,27 +33,27 @@ a. User
 - Mengidentifikasi aktor, fitur, dan kebutuhan fungsional
 - Mendesain class diagram untuk objek-objek utama seperti User, Transaksi, dan KeuanganApp
 
-3.	Persiapan Proyek
+2. Persiapan Proyek
 - Membuat repository GitHub untuk dokumentasi dan versioning
 - Menyusun struktur folder dan file proyek
 - Menyiapkan template awal program (main class, struktur package)
 
-4.	Pembuatan Fitur Dasar
+3.	Pembuatan Fitur Dasar
 - Membuat sistem login dan registrasi
 - Menyimpan data user secara sederhana (file atau list)
 
-5.	Pembuatan Fitur Inti
+4.	Pembuatan Fitur Inti
 - Membuat fitur input transaksi (pemasukan/pengeluaran)
 - Menyimpan transaksi ke dalam file
 - Menambahkan fitur melihat semua catatan transaksi
 - Menambahkan fitur perhitungan saldo total secara otomatis
 
-6.	Pengelolaan Data & Validasi
+5.	Pengelolaan Data & Validasi
 - Menambah fitur hapus transaksi jika ada kesalahan input
 - Validasi input dari user (jumlah tidak boleh minus, dsb)
 - Pengelompokan data berdasarkan kategori atau tanggal
 
-7.	Penyempurnaan dan Dokumentasi
+6.	Penyempurnaan dan Dokumentasi
 - Melakukan testing setiap fitur untuk memastikan berjalan dengan baik
 - Membersihkan kode (refactor) dan menambahkan komentar
 - Menyusun dokumentasi proyek di file README.md di GitHub
